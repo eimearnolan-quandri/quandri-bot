@@ -1,2 +1,6 @@
 /output
 .vscode
+*.toml
+/streamlit
+/venv
+/notion_docs

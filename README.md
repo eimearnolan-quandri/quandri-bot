@@ -1,2 +1,2 @@
-# quandri-bot
-Quandri's tester bot
+# Quandri Notion Bot
+Quandri's bot for chatting to Notion Documentation 

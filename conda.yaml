@@ -1,7 +1,12 @@
 channels:
   - conda-forge
 dependencies:
-  - python=3.7.5
+  - python=3.9
   - pip=20.1
   - pip:
-      - rpaframework==14.0.0
+      - rpaframework==18.0.0
+      - openai==0.27.9
+      - langchain==0.0.271
+      - faiss-cpu==1.7.4
+      - streamlit==1.25.0
+      - tiktoken==0.4.0
